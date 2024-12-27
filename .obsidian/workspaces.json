@@ -1,0 +1,253 @@
+{
+  "workspaces": {
+    "1": {
+      "main": {
+        "id": "eb1041d26ddafc48",
+        "type": "split",
+        "children": [
+          {
+            "id": "d890169a7d24b100",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b88000f23f16038",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "9 Pentest ▣/!Разведка пентест.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "338e3964a3bd1686",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "9 Pentest ▣/!Пентест на машине линукс.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "acc11e82cdbf7c72",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "9 Pentest ▣/Атака пентест.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3b8a34c4ded95f83",
+        "type": "split",
+        "children": [
+          {
+            "id": "6655b26e6d1d298b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ec102c6fc9b8d05",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "ab008a17611439af",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "-path:\"🗺️Навигация всего\"   \"sql\"   -path:\"Ответы решений заданий\"  ",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a75724d9e5b468e3",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 751.5124969482422
+      },
+      "right": {
+        "id": "ef87f49cd6ddf083",
+        "type": "split",
+        "children": [
+          {
+            "id": "664f32c81069ed4d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ed1a27cb7bd34bd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "9 Pentest ▣/Атака пентест.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "084215aaa0e836c7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "9 Pentest ▣/Атака пентест.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "36dd4c766179176e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "dbbab7611a534826",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "9 Pentest ▣/Атака пентест.md"
+                  }
+                }
+              },
+              {
+                "id": "cfd22b10d9c29678",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "d26d1a10674b594a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da3dd37aca76602e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "9 Pentest ▣/Атака пентест.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "734e7a3c5741709f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61056d3ad5ceae2a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "9 Pentest ▣/Атака пентест.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6316046762907498,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 408.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "markdown-importer:Импорт Markdown-файлов": false,
+          "workspaces:Пространства": false,
+          "random-note:Открыть случайную заметку": false
+        }
+      },
+      "active": "0ec102c6fc9b8d05",
+      "mtime": "2024-10-12T17:13:28+03:00"
+    }
+  },
+  "active": "1"
+}

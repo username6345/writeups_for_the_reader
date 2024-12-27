@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"41b6b60da1ee1823","type":"group","x":-303,"y":1600,"width":2623,"height":480,"color":"4","label":"D"},
+		{"id":"25398757ee79000a","type":"group","x":-303,"y":27,"width":2623,"height":473,"color":"#fa9200","label":"A"},
+		{"id":"c62bdf4c2dcd9fcf","type":"group","x":-303,"y":560,"width":2623,"height":473,"color":"#ffb54d","label":"B"},
+		{"id":"93166b98aa31a0dc","type":"group","x":-303,"y":1080,"width":2623,"height":473,"color":"3","label":"C"},
+		{"id":"236c135b9a9f83d8","type":"group","x":-303,"y":2120,"width":2623,"height":473,"color":"#43a800","label":"E"},
+		{"id":"8fea49923d04b331","type":"group","x":-303,"y":2640,"width":2623,"height":473,"color":"5","label":"F"},
+		{"id":"9bc1b995a1920cd9","type":"group","x":-303,"y":-413,"width":2623,"height":400,"color":"1","label":"S"},
+		{"id":"ed6a66ad74d0a3bd","x":400,"y":-560,"width":540,"height":100,"type":"text","text":"Тир Лист заданий которые \nОцениваются по следующим критериям"}
+	],
+	"edges":[]
+}

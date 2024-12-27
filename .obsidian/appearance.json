@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "MinerBanner"
+  ],
+  "translucency": false
+}

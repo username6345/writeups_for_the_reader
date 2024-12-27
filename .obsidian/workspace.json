@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "eb1041d26ddafc48",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3a020f3468e634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7514c550b233ac29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "063f187e54dfcf67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Standoff365/Bootcamp/Bootcamp standoff365.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bootcamp standoff365"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b8a34c4ded95f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "6655b26e6d1d298b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec102c6fc9b8d05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ab008a17611439af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "№?",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a75724d9e5b468e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "ef87f49cd6ddf083",
+    "type": "split",
+    "children": [
+      {
+        "id": "664f32c81069ed4d",
+        "type": "tabs",
+        "dimension": 47.5,
+        "children": [
+          {
+            "id": "5ed1a27cb7bd34bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Расширение firefox.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Расширение firefox"
+            }
+          },
+          {
+            "id": "084215aaa0e836c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4notweb/Red team/SQLMAP ESSENTIALS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из SQLMAP ESSENTIALS"
+            }
+          },
+          {
+            "id": "36dd4c766179176e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "dbbab7611a534826",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "b890396280c36d88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "90814096e59b1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4a25b9f389802cb4",
+        "type": "tabs",
+        "dimension": 52.5,
+        "children": [
+          {
+            "id": "61056d3ad5ceae2a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Открыть случайную заметку": false,
+      "workspaces:Пространства": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "063f187e54dfcf67",
+  "lastOpenFiles": [
+    "README.md",
+    "image/Obsidian_LWjDhl2QDD.mp4",
+    "Standoff365/Bootcamp/Bootcamp standoff365.md",
+    "Standoff365/Bootcamp/черновики/2 vpn.md",
+    "image/Pasted image 20241022233137.png",
+    "image",
+    "Standoff365/Bootcamp/infra/infra-1.md",
+    "Standoff365/Bootcamp/web/web-5-en.md",
+    "Standoff365/Bootcamp/standoff365_bootcamp.md",
+    "Standoff365/Bootcamp/infra/infra-4.md",
+    "Standoff365/Bootcamp/черновики/10.124.1.231 aircraft.edu.stf.md",
+    "Standoff365/Bootcamp/черновики/10.124.1.232.md",
+    "Standoff365/Bootcamp/черновики/10.124.1.233.md",
+    "Standoff365/Bootcamp/черновики/10.124.1.234 wp.edu.stf.md",
+    "Standoff365/Bootcamp/черновики/10.124.1.240 bind.edu.stf.md",
+    "Standoff365/Bootcamp/черновики/10.124.1.253 vpn.edu.stf.md",
+    "Standoff365/Bootcamp/infra/infra-5.md",
+    "Standoff365/Bootcamp/infra/infra-6.md",
+    "Standoff365/Bootcamp/infra/infra-8.md",
+    "Standoff365/Bootcamp/infra/infra-3.md",
+    "Standoff365/Bootcamp/infra/infra-2.md",
+    "Standoff365/Bootcamp/web/web-10.md",
+    "Standoff365/Bootcamp/web/web-9 10.124.1.234.md",
+    "Standoff365/Bootcamp/web/web-1-1  web-1-2 library.edu.stf.md",
+    "Standoff/черновики/Погнали на лучший «шутер» standoff365 ctf writeups infra-1 infra-2 infra-3.md",
+    "Standoff365/Bootcamp/web/web-8.md",
+    "Standoff365/Bootcamp/image101.png",
+    "Standoff365/Bootcamp/web-1-1.md",
+    "Standoff365/Bootcamp/web/web-2-1 www.edu.stf.md",
+    "1",
+    "Standoff/детский полигон.canvas",
+    "Standoff365/Bootcamp/image/1_IFNZ4MZsfGWT14927hjLwg.png",
+    "Standoff365/Bootcamp/image/20240909222039.png",
+    "Standoff365/Bootcamp/image/20240820181004.png",
+    "Standoff365/Bootcamp/image",
+    "Standoff365/Bootcamp/image/20240928180806.png",
+    "Standoff365/Bootcamp/image/20240926233453.png",
+    "Standoff365/Bootcamp/image/20240926233442.png",
+    "Standoff365/Bootcamp/image/20240926233436.png",
+    "Standoff365/Bootcamp/image/20240926232010.png",
+    "Standoff/черновики/desktop.ini",
+    "Standoff365/Bootcamp/черновики",
+    "Standoff/web/image_test/desktop.ini",
+    "Standoff/web/image_test",
+    "Standoff/web/desktop.ini",
+    "Standoff365/Bootcamp/web",
+    "Я_есть_ульта.canvas",
+    "3Web/техники ББ/recon.canvas",
+    "Ответы решений заданий — копия/standofftest/Без названия.canvas",
+    "Ответы решений заданий — копия/Standoff/детский полигон.canvas",
+    "Nagivation — копия/Trash/Без названия.canvas",
+    "Nagivation — копия/Разработка/Структура сайта/карта сайта.canvas",
+    "9 BugBounty🐛🐜 — копия/техники ББ/recon.canvas",
+    "Nagivation/Trash/Без названия.canvas",
+    "Nagivation/Разработка/Структура сайта/карта сайта.canvas"
+  ]
+}

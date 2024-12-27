@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a67fb464ee0097da",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a62d9ebf403693d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b652e463f90b3869",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2095084994e5bea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b10754decae8a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ПОСМОТРИ И УДАЛИ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bebd6ca84cdaf4a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a2de22ee0f7b376",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "be3f1f500c85072e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0b8bc05eaa6f1d0a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2130ede46cc64472",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0113a8e47da93ad7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b4a99ef664fdc741",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ПОСМОТРИ И УДАЛИ.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5d4037e21e51d66f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "ПОСМОТРИ И УДАЛИ.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3d7b91e7d43e4d63",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "ПОСМОТРИ И УДАЛИ.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b10754decae8a96",
+  "lastOpenFiles": [
+    "Pentest/machine/Usage.md",
+    "Pentest/machine/Perfection.md",
+    "Pentest/machine/Pasted image 20240601233020.png",
+    "Pentest/machine/Headless.md",
+    "Pentest/machine/cozyhosting.md",
+    "Pentest/machine/BoardLight.md",
+    "Pentest/machine/Analytics.md",
+    "Pentest/Image-pentest/Pasted image 20240301234050.png",
+    "Pentest/Image-pentest/Pasted image 20240301234037.png",
+    "Pentest/Image-pentest/Pasted image 20240301222003.png",
+    "En/en-image/Pasted image 20240503212840.png",
+    "En/en-image/Pasted image 20240503212612.png",
+    "En/en-image/Pasted image 20240503201043.png",
+    "🗺️Навигация всего/Dashboard 🗺️Навигация общая@.md",
+    "мелкие категории/скорость команды.md",
+    "Pentest/SQL.md",
+    "Web_version)2/конспект веба от другого человека.md",
+    "Pentest/Разведка пентест.md",
+    "Pentest/HTB htb hack the box.md",
+    "Pentest/hacktricks.md",
+    "Pentest/пароли хэши hash hashcat.md",
+    "Pentest/атака пентест.md",
+    "Pentest/little link.md",
+    "Pentest/Linux Kali линукс кали.md",
+    "Pentest/(◣ _ ◢)README Pentest.md",
+    "En/повторение фраз.md",
+    "En/graph.md",
+    "ПОСМОТРИ И УДАЛИ.md",
+    "Pentest/machine",
+    "2024_03-may.md",
+    "Пхд2 13.md",
+    "python/питон курс на ютубе.md",
+    "линукс проблемы.md",
+    "python",
+    "Мнемо.md"
+  ]
+}

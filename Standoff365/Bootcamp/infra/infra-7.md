@@ -1,0 +1,1 @@
+[Bootcamp standoff365](Ответы%20решений%20заданий/Standoff/Bootcamp%20standoff365.md)

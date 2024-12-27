@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "0636376f44141057",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7719357b7d3b25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d44afd39472a664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3Web/3Reminders Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3Reminders Web"
+            }
+          },
+          {
+            "id": "f8e0a6fe96e70249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5LPE/Linux/@Linux Линукс.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@Linux Линукс"
+            }
+          },
+          {
+            "id": "27834eed21f77e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9scipt/alias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d793b997b389475f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fed64e96d3c7ad99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506ff9b64ed39679",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0e33ac4ee179b9b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ambie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "102d59db6c9ffa05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5124969482422
+  },
+  "right": {
+    "id": "7ceb82957cffd157",
+    "type": "split",
+    "children": [
+      {
+        "id": "012bb93889b1829b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35f885ad363c88f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nagivation/с чего начать7 или твой путь@.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для с чего начать7 или твой путь@"
+            }
+          },
+          {
+            "id": "a9d66dcfb423f3a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0_информация/Osint/osint по людям.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из osint по людям"
+            }
+          },
+          {
+            "id": "3dd183480748568c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c362403e7951f1a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "582acfcb81e2de96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3Web/3Reminders Web.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 3Reminders Web"
+            }
+          },
+          {
+            "id": "aca1b009713cbe64",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4236e2412dec2f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9dfecd9a47afd5f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3Web/3Reminders Web.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8589458344196576,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф 3Reminders Web"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "workspaces:Пространства": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0d44afd39472a664",
+  "lastOpenFiles": [
+    "Nagivation/мелкие категории/Категория_шутка/image/Pasted image 20241224155839.png",
+    "Nagivation/мелкие категории/Категория_шутка/image/desktop.ini",
+    "Nagivation/мелкие категории/Категория_шутка/image",
+    "9scipt/alias.md",
+    "5LPE/Linux/@Linux Линукс.md",
+    "3Web/3Reminders Web.md",
+    "3Web/Vulnerability/NoSQL injection.md",
+    "Без названия.md",
+    "не сейчас, на завтра.md",
+    "Nagivation/Profa/Профа.md",
+    "project/tab.ods",
+    "3Web/Vulnerability/Web cache deception.md",
+    "3Web/Vulnerability/image/Pasted image 20241221220108.png",
+    "Ответы решений заданий/Standoff/infra/3Утечка конфиденциальной информации.md",
+    "Ответы решений заданий/Standoff/infra/5Сбой в системе регистрации пассажиров.md",
+    "Ответы решений заданий/Standoff/infra/2Сбой в работе вычислительной системы.md",
+    "Ответы решений заданий/Standoff/infra/1Утечка персональных данных сотрудников.md",
+    "Ответы решений заданий/Standoff/infra/4Получение доступа к учетной записи администратора серверов.md",
+    "Ответы решений заданий/Standoff/Tir list bootcamp.canvas",
+    "pattern/tir list.canvas",
+    "project/interview/osi_html/Presentation Layer ＂ Layer 6 ＂ The OSI-Model (04.12.2024 23｜34｜37).html",
+    "project/interview/osi_html/Application Layer ＂ Layer 7 ＂ The OSI-Model (04.12.2024 23｜34｜39).html",
+    "project/interview/osi_html/Transport Layer ＂ Layer 4 ＂ The OSI-Model (04.12.2024 23｜34｜37).html",
+    "project/interview/osi_html/The OSI-Model in a simple way (04.12.2024 23｜34｜37).html",
+    "project/interview/osi_html/Network Layer ＂ Layer 3 ＂ The OSI-Model (04.12.2024 23｜34｜37).html",
+    "project/interview/osi_html/Physical Layer ＂ Layer 1 ＂ The OSI-Model (04.12.2024 23｜34｜39).html",
+    "project/interview/osi_html/Session Layer ＂ Layer 5 ＂ The OSI-Model (04.12.2024 23｜34｜37).html",
+    "project/interview/Interview_C.md",
+    "project/HackerSaga/Q2/image/Pasted image 20241219214536.png",
+    "project/HackerSaga/Q2/image/Pasted image 20241219212702.png",
+    "project/HackerSaga/Q2/Q2.md",
+    "project/HackerSaga/Q2/THMQ2.png",
+    "Ответы решений заданий/Standoff/infra/image/Pasted image 20241219143650.png",
+    "project/gather_info/image/Pasted image 20241218161728.png",
+    "Ответы решений заданий/Standoff/infra/infra-10.md",
+    "project/gather_info/image/Pasted image 20241218161720.png",
+    "3Web/tools/image/Pasted image 20241218101217.png",
+    "Ответы решений заданий/Standoff/infra/image/Pasted image 20241218143411.png",
+    "3Web/tools/image/Pasted image 20241218101228.png",
+    "Ответы решений заданий/Standoff/infra/infra-11.md",
+    "Red/RedTeaming - 2/2 - Process Injection/1 - Intro.md",
+    "Red/RedTeaming - 2/3 - Defense Evasion/8 - Named Pipes Names.md",
+    "Red/RedTeaming - 1/26 - Post-Engagements & Reporting/3 - Reccomendations.md",
+    "Red/RedTeaming - 1/9 - Lateral Movement/2. Powershell Remoting.md",
+    "Red/RedTeaming - 1/10 - Credentials & User Impersonation/10. Pass The Hash.md",
+    "Red/RedTeaming - 2/3 - Defense Evasion/5 - Network Connection.md",
+    "Red/RedTeaming - 1/7 -  Host Privilege Escalation/8. Always Install Elevated.md",
+    "Red/RedTeaming - 1/2 -  C2/3. Listeners.md",
+    "project/HackerSaga/Hacker_saga_map.canvas",
+    "bb/Без названия.canvas",
+    "project/gather_info/telegram map.canvas",
+    "project/Разработка/Структура сайта/карта сайта.canvas",
+    "project/gather_info/bb_map.canvas",
+    "3Web/техники ББ/recon.canvas",
+    "Ответы решений заданий/Standoff/детский полигон.canvas",
+    "9scipt/Recon/Без названия.canvas"
+  ]
+}

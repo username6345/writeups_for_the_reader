@@ -1,0 +1,81 @@
+div.markdown-reading-view > .markdown-preview-view::after {
+  content: "";
+  position: fixed; /* Измените на fixed для закрепления */
+  background: rgb(2,0,36);
+  background-image: url(https://images.wallpaperscraft.ru/image/single/saturn_planeta_kosmos_219661_1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  filter: blur(0px) brightness(100%) saturate(100%) opacity(100%);
+  left: 50%; /* Центрирование по горизонтали */
+  top: 50%; /* Центрирование по вертикали */
+  transform: translate(-50%, -50%); /* Сдвиг для центрирования */
+  z-index: -1;
+  width: 100vw; /* Ширина на весь экран */
+  height: 100vh; /* Высота на весь экран */
+}
+
+ 
+.markdown-preview-view {
+    z-index: 0;
+}
+
+ 
+canvas {
+      background-size: cover; /* cover Для всего экрана  а для другого типа изображений contain */
+    position: absolute; /* Ensure it covers the desired area */
+    left: 0;
+    top: 0;
+    width: 100%; /* Make sure the canvas takes full width */
+    height: 100%; /* Make sure the canvas takes full height */
+    opacity: 0.1111; /* Set opacity to 50% */
+
+
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.wallpaperscraft.ru/image/single/saturn_planeta_kosmos_219661_1280x720.jpg') no-repeat center center;
+       
+
+}
+
+   
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+html {
+    --stars-svg: url("data:image/svg+xml,https://images.wallpaperscraft.ru/image/single/saturn_planeta_kosmos_219661_1280x720.jpg");
+}    

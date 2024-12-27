@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"Ответы решений заданий\"   -path:Nagivation   -path:Red  -path:bb  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:1Scout  ",
+      "color": {
+        "a": 1,
+        "rgb": 16185856
+      }
+    },
+    {
+      "query": "path:\"Ответы решений заданий\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:2VectorAttack  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "path:3Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 14431486
+      }
+    },
+    {
+      "query": "path:4notweb  ",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
+    },
+    {
+      "query": "path:5",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:0_информация  ",
+      "color": {
+        "a": 1,
+        "rgb": 12514631
+      }
+    },
+    {
+      "query": "path:pattern  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:0Osint  ",
+      "color": {
+        "a": 1,
+        "rgb": 15370297
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.6,
+  "nodeSizeMultiplier": 1.04716494845361,
+  "lineSizeMultiplier": 1.83541666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.616187384044527,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 139,
+  "scale": 1.5316957794654331,
+  "close": true
+}

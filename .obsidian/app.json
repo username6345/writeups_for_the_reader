@@ -1,0 +1,25 @@
+{
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "showLineNumber": true,
+  "propertiesInDocument": "source",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./image",
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "autoConvertHtml": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "useTab": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
+}

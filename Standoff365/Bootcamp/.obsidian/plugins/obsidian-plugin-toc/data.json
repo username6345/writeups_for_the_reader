@@ -1,0 +1,8 @@
+{
+  "minimumDepth": 1,
+  "maximumDepth": 5,
+  "listStyle": "number",
+  "useMarkdown": false,
+  "githubCompat": false,
+  "title": "Оглавление:"
+}
