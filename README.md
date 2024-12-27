@@ -4,6 +4,9 @@ Writeups на различных стф задания
 
 ---
 
+![Демонстрация](https://github.com/username6345/writeups_for_the_reader/blob/main/image/Obsidian_LWjDhl2QDD.mp4)
+
+
 Заметки навигаторы:
 --  [Bootcamp standoff365](Standoff365/Bootcamp/Bootcamp%20standoff365.md)
 ![](image/Obsidian_LWjDhl2QDD.mp4)
