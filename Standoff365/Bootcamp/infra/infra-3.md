@@ -14,7 +14,7 @@
 Содержимое файла 
 ```
 # vpn access flag
-# 260f9fe9-7efd-4125-9191-e4ba6f86c286 
+# был флаг , да всплыл 
 client
 dev tun
 proto tcp
